@@ -1,7 +1,7 @@
 #include "ESP8266.h"
 #include <SoftwareSerial.h>
 
-const char* SSID = "YOUR SSID";
+const char* SSID = "AI-THINKER_4D612B";
 const char* PASSWORD = "YOUR PASSWORD";
 
 int PinRele01 = 2;
